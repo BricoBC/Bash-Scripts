@@ -24,8 +24,14 @@ number=0
 # done
 
 # FOR
+# echo "FOR"
+# for i in {0..9..1}
+# do
+#     echo $i
+# done
+
 echo "FOR"
-for i in {0..9..1}
+for (( i=0; i<10; i++))
 do
     echo $i
 done
