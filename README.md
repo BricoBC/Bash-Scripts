@@ -12,3 +12,8 @@ Quiere decir que no tiene permiso para ejecutarse el archivo, para darle ese per
 ```
 Se verifica nuevamente los permisos que tenga el archivo y tiene que salir algo como:
 -rwxtwxt-x
+
+Ya una vez con el permiso se ejecuta el archivo con el comando de:
+```bash
+  ./<name-file.sh>
+``
