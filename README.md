@@ -22,6 +22,17 @@ Ya una vez con el permiso se ejecuta el archivo con el comando de:
   source <name-file.sh>
 ``
 
+## Práctica 1:
+### Hacer un script para que escriba el nombre de un archivo, darle los permisos para que se ejecute y ejecutarlo
+Para hacer la práctica  es necesario que hayan hecho:
+- 1-hello
+- 2-save
+- 3-save
+- 4-delimiter
+- 5-variable
+
+
+
 
 ## Autor:
 - [@BricoBC](https://github.com/BricoBC)
