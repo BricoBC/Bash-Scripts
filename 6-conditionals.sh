@@ -1,8 +1,18 @@
 #! /bin/bash
 
+#Cmparando cadenas
+# <
+# >
+# =
+# !=
+
+#Comparando enteros
 # -eq == 
 # -ge >= (greater equal)
 # -le <= (less equal)
+# -gt > (greater than)
+# -lt < (less than)
+# -ne != (not equal)
 
 #Una variable que se iguala a 21
 #Nota: Es importante que no tenga espacios
