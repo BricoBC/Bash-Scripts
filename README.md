@@ -17,6 +17,10 @@ Ya una vez con el permiso se ejecuta el archivo con el comando de:
 ```bash
   ./<name-file.sh>
 ``
+ó
+```bash
+  source <name-file.sh>
+``
 
 
 ## Autor:
