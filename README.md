@@ -17,3 +17,7 @@ Ya una vez con el permiso se ejecuta el archivo con el comando de:
 ```bash
   ./<name-file.sh>
 ``
+
+
+## Autor:
+- [@BricoBC](https://github.com/BricoBC)
