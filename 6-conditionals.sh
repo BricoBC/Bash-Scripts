@@ -5,6 +5,7 @@
 # >
 # =
 # !=
+# =~ (expresiones regulares)
 
 #Comparando enteros
 # -eq == 
