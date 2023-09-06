@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash -x
 echo "Introduce un nombre: "
 read name
 
