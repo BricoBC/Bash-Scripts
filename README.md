@@ -48,5 +48,5 @@ Si necesitamos debuggear sólo un fragmento de código, hacemos lo siguiente:
 
 
 
-## Autor:
-- [@BricoBC](https://github.com/BricoBC)
+
+Hecho por [@BricoBC](https://github.com/BricoBC)
