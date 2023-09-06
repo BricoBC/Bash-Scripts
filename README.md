@@ -33,11 +33,19 @@ Para hacer la práctica  es necesario que hayan hecho:
 
 #Debuggin
 Si necesitamos debuggear un script, es necesario hacer lo siguiente:
-1- Abrimos el archivo.
+1- Se abre el archivo.
 2- Se ubica el texto de \#! /bin/bash
-3- Al final le agregamos un -x
-4- Ejecutamos el script
-Revisar archivo 14 para observar como queda.
+3- Al final se le agrega un -x
+4- Se ejecuta el script
+
+
+Si necesitamos debuggear sólo un fragmento de código, hacemos lo siguiente:
+1- Se ubica el fragmento de código que se necesita debuggear
+2- Antes del fragmento en una linea nueva se pone: set -x
+3- Después del fragmento en una linea nueva se pone: set +x
+4- Se ejecuta el código
+
+
 
 
 ## Autor:
