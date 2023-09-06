@@ -31,7 +31,13 @@ Para hacer la práctica  es necesario que hayan hecho:
 - 4-delimiter
 - 5-variable
 
-
+#Debuggin
+Si necesitamos debuggear un script, es necesario hacer lo siguiente:
+1- Abrimos el archivo.
+2- Se ubica el texto de \#! /bin/bash
+3- Al final le agregamos un -x
+4- Ejecutamos el script
+Revisar archivo 14 para observar como queda.
 
 
 ## Autor:
