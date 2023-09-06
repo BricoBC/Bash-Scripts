@@ -31,19 +31,19 @@ Para hacer la práctica  es necesario que hayan hecho:
 - 4-delimiter
 - 5-variable
 
-#Debuggin
+# Debuggin
 Si necesitamos debuggear un script, es necesario hacer lo siguiente:
-1- Se abre el archivo.
-2- Se ubica el texto de \#! /bin/bash
-3- Al final se le agrega un -x
-4- Se ejecuta el script
+- Se abre el archivo.
+- Se ubica el texto de \#! /bin/bash
+- Al final se le agrega un -x
+- Se ejecuta el script
 
 
 Si necesitamos debuggear sólo un fragmento de código, hacemos lo siguiente:
-1- Se ubica el fragmento de código que se necesita debuggear
-2- Antes del fragmento en una linea nueva se pone: set -x
-3- Después del fragmento en una linea nueva se pone: set +x
-4- Se ejecuta el código
+- Se ubica el fragmento de código que se necesita debuggear
+- Antes del fragmento en una linea nueva se pone: set -x
+- Después del fragmento en una linea nueva se pone: set +x
+- Se ejecuta el código
 
 
 
